@@ -28,8 +28,15 @@
 # MAGIC %md
 # MAGIC # Phase Leader Plan
 # MAGIC
-# MAGIC - In table format
-# MAGIC - https://docs.google.com/spreadsheets/d/1VP0OrvDxoKikjz4gOAMVXLI9-vB_LTrY79So2krrMDo/edit#gid=2061234516
+# MAGIC | Phase     | Week | Dates | Leader |
+# MAGIC | --------- | --------- | --------- | --------- |
+# MAGIC | Phase 1   | 0        | 3/11 - 3/17 | All |
+# MAGIC | Phase 2   | 1        | 3/18 - 3/24 | Juliana Gómez Consuegra  |
+# MAGIC | Phase 2   | 2        | 3/25 - 3/31 | Ray Chao |
+# MAGIC | Phase 2 & Phase 3   | 3        | 4/1 - 4/7 | Jenna Sparks |
+# MAGIC | Phase 3   | 4        | 4/8 - 4/14 | Dhyuti Ramadas |
+# MAGIC | Phase 3   | 5        | 4/15 - 4/21 | Rachel Gao |
+# MAGIC
 
 # COMMAND ----------
 
