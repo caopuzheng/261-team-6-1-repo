@@ -1,0 +1,97 @@
+dbfs:/mnt/mids-w261/
++-- HW5/
++-- OTPW_12M/
++-- OTPW_1D_CSV/
++-- OTPW_36M/
++-- OTPW_3M/
++-- OTPW_60M/
++-- datasets_final_project/
+    +-- airlines/
+        +-- teamjvml1/
+            +-- abc_airlines_weather_d_train_3m/
+            +-- abc_airlines_weather_o_train_3m/
+            +-- abc_dev_3m/
+            +-- abc_dev_full/
+            +-- abc_nearest_ts_d_train_3m/
+            +-- abc_nearest_ts_o_train_3m/
+            +-- abc_train_3m/
+            +-- abc_train_full/
+            +-- airlines_tz_train_3m/
+            +-- airlines_tz_train_full/
+            +-- airlines_weather_3m.parquet/
+            +-- dev_3m/
+            +-- f_dev_3m/
+            +-- f_train_3m/
+            +-- f_train_3m_all_airports/
+            +-- helper_1/
+            +-- helper_1a/
+            +-- helper_1b/
+            +-- helper_2/
+            +-- helper_3/
+            +-- nearest_ts_d_test_3m/
+            +-- nearest_ts_d_train_3m/
+            +-- nearest_ts_d_train_full/
+            +-- nearest_ts_o_test_3m/
+            +-- nearest_ts_o_train_3m/
+            +-- nearest_ts_o_train_full/
+            +-- run1_weather_train_imputed_airtemp/
+            +-- stations_tz/
+            +-- test_3m/
+    +-- airlines_data/
+        +-- 2015/
+        +-- 2016/
+        +-- 2017/
+        +-- 2018/
+        +-- 2019/
+        +-- teamjvml1/
+            +-- airlines_3m_dev.parquet/
+            +-- airlines_3m_test.parquet/
+            +-- airlines_3m_train.parquet/
+            +-- dev.parquet/
+            +-- test.parquet/
+            +-- train.parquet/
+    +-- parquet_airlines_data/
+        +-- 2015.parquet/
+        +-- 2016.parquet/
+        +-- 2017.parquet/
+        +-- 2018.parquet/
+        +-- 2019.parquet/
+        +-- airlines_size_test.parquet/
+    +-- parquet_airlines_data_3m/
+    +-- parquet_airlines_data_6m/
+    +-- stations_data/
+        +-- stations_with_neighbors.parquet/
+    +-- weather_data/
+        +-- weather-miss.parquet/
+        +-- weather2015a.parquet/
+        +-- weather2016a.parquet/
+        +-- weather2017a.parquet/
+        +-- weather2018a.parquet/
+        +-- weather2019a.parquet/
+    +-- weather_data_6_hr/
+    +-- weather_data_single/
++-- datasets_final_project_2022/
+    +-- parquet_airlines_data/
+        +-- YEAR=2015/
+        +-- YEAR=2016/
+        +-- YEAR=2017/
+        +-- YEAR=2018/
+        +-- YEAR=2019/
+        +-- YEAR=2020/
+        +-- YEAR=2021/
+    +-- parquet_airlines_data_1y/
+    +-- parquet_airlines_data_3m/
+    +-- parquet_airlines_data_6m/
+    +-- parquet_weather_data/
+        +-- YEAR=2015/
+        +-- YEAR=2016/
+        +-- YEAR=2017/
+        +-- YEAR=2018/
+        +-- YEAR=2019/
+        +-- YEAR=2020/
+        +-- YEAR=2021/
+    +-- parquet_weather_data_1y/
+    +-- parquet_weather_data_3m/
+    +-- parquet_weather_data_6m/
+    +-- stations_data/
+        +-- stations_with_neighbors.parquet/
