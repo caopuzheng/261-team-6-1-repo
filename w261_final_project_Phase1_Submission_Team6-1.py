@@ -19,9 +19,13 @@
 # MAGIC %md
 # MAGIC # Team Members
 # MAGIC
-# MAGIC - Name
-# MAGIC - Email
-# MAGIC - Photo
+# MAGIC | Name     | Email | Photo???? | 
+# MAGIC | --------- | --------- | --------- | 
+# MAGIC | Juliana Gómez Consuegra  | julianagc@berkeley.edu | |
+# MAGIC | Ray Chao | caopuzheng@berkeley.edu | |
+# MAGIC | Jenna Sparks | jenna_sparks@berkeley.edu | |
+# MAGIC | Dhyuti Ramadas | dramadas@berkeley.edu | |
+# MAGIC | Rachel Gao | jgao1008@berkeley.edu | |
 
 # COMMAND ----------
 
