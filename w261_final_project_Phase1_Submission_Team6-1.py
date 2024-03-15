@@ -75,12 +75,19 @@
 # MAGIC # Machine algorithms and metrics 
 # MAGIC
 # MAGIC - about 200-300 words
-# MAGIC - Description of algorithms to be used
-# MAGIC   - names
-# MAGIC   - implementations
-# MAGIC   - loss functions
+# MAGIC ## Description of algorithms to be used
+# MAGIC
+# MAGIC - Baseline: Logistic Regression
+# MAGIC - Random Forest
+# MAGIC - Might consider regression approach (if time permitted) 
+# MAGIC   - benefit of predicting actual delay time
+# MAGIC - Might consider Deep learning network (if time permitted)
+# MAGIC
+# MAGIC
+# MAGIC ## implementations
+# MAGIC ## loss functions
 # MAGIC   - why
-# MAGIC - Description of metrics and analysis to be used
+# MAGIC ## Description of metrics and analysis to be used
 # MAGIC   - include the equations for the metrics
 # MAGIC   - include both standard metrics and domain-specific metrics
 # MAGIC
